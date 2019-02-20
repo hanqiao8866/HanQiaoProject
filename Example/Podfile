@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HanQiaoProject_Tests' do
+  pod 'HanQiaoProject', :path => '../'
+  
+  
+end
