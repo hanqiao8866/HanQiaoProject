@@ -1,0 +1,6 @@
+framework module HanQiaoProject {
+  umbrella header "HanQiaoProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

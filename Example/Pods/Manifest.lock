@@ -1,0 +1,16 @@
+PODS:
+  - HanQiaoProject (0.1.0)
+
+DEPENDENCIES:
+  - HanQiaoProject (from `../`)
+
+EXTERNAL SOURCES:
+  HanQiaoProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HanQiaoProject: 57fe3dff8f6391b33c2045d4576632159890fdb1
+
+PODFILE CHECKSUM: bcb053fabe3d46fbf80f1009bbb7e4f2863343e2
+
+COCOAPODS: 1.5.3

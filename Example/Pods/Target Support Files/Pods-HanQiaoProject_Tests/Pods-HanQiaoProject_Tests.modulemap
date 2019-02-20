@@ -1,0 +1,6 @@
+framework module Pods_HanQiaoProject_Tests {
+  umbrella header "Pods-HanQiaoProject_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
